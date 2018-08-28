@@ -20,6 +20,8 @@
   },
   "homepage": "https://github.com/leongaban/nodejs-master-class#readme",
   "dependencies": {
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "mongoose": "^5.2.10",
+    "ramda": "^0.25.0"
   }
 }
