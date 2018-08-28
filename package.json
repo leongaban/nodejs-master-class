@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-master-class",
+  "version": "1.0.0",
+  "description": "Course files for the NodeJS master class https://www.udemy.com/nodejs-master-class",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leongaban/nodejs-master-class.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Leon Gaban",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leongaban/nodejs-master-class/issues"
+  },
+  "homepage": "https://github.com/leongaban/nodejs-master-class#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
